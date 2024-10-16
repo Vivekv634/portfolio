@@ -1,0 +1,89 @@
+{
+  "milestone": [
+    {
+      "title": "NASA Space App Challenge",
+      "githubLink": "https://github.com/Vivekv634/NASA-Space-app-challenge",
+      "websiteLink": "https://nasa-space-app-challenge-beta.vercel.app/",
+      "linkedInLink": "https://www.linkedin.com/posts/vivekv634_nasaspaceapps-hackathon-innovation-activity-7249064100993925120-p6pm?utm_source=share&utm_medium=member_desktop",
+      "src": "/nasa_app_ss.png",
+      "description": "NASA space app challenge is a hackathon conducted by the KIET college, Ghaziabad. My team and I tackled one of NASA's problem statements, working to create and deploy a functional solution within the 48-hour timeframe. Our project involved building an interactive orrery web app using React.js and Three.js, which showcased celestial bodies and asteroids in a dynamic, educational format."
+    }
+  ],
+  "skills": {
+    "languages": [
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    ],
+    "lib_frame": [
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    ],
+    "dev_tools": [
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+    ],
+    "others": [
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+    ],
+    "soft_skills": [
+      "Team collaboration",
+      "Effective communication",
+      "Continuously learning and improving"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Autobook",
+      "githubLink": "https://github.com/Vivekv634/Autobook",
+      "websiteLink": "https://autobook1.vercel.app/",
+      "src": "/autobook_ss.png",
+      "dev": true,
+      "description": "Autobook is an advanced note taking web application with effecient and effective note storing and sorting features. You can store multiple notes combine as a notebook. Autobook can auto-generate notes with AutoNote feature at your given time to save time spending on creating new note everytime."
+    },
+    {
+      "title": "To-Do App",
+      "githubLink": "https://github.com/Vivekv634/To-Do-App",
+      "websiteLink": "https://vivekv634.github.io/To-Do-App/",
+      "src": "/todo_app_ss.png",
+      "description": "To-Do App is a web application where user can create, delete and mark the work/to-do as done without any need of internet."
+    },
+    {
+      "title": "Currency Converter",
+      "githubLink": "https://github.com/Vivekv634/mern-currency-converter",
+      "websiteLink": "https://vivekv634.github.io/mern-currency-converter/",
+      "src": "/currency_app_ss.png",
+      "description": "Currency Converter is a web application with real-time updates of currency exchange rates."
+    },
+    {
+      "title": "File Reader",
+      "githubLink": "https://github.com/Vivekv634/file-reader",
+      "websiteLink": "https://file-reader1.vercel.app/",
+      "src": "/file_reader_ss.png",
+      "description": "File Reader is a web application that helps you read and copy the text files."
+    }
+  ]
+}
