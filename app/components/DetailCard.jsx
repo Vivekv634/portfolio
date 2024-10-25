@@ -27,14 +27,19 @@ export default function DetailCard({ work, w, h }) {
       <TooltipProvider>
         <Dialog>
           <DialogTrigger>
-            <Card className={cn("w-fit", aldrich.className)}>
-              <CardContent className="rounded-lg shadow-2xl cursor-pointer hover:scale-[1.01] transition overflow-hidden w-fit p-0">
+            <Card
+              className={cn(
+                "w-fit border dark:border-neutral-900",
+                aldrich.className,
+              )}
+            >
+              <CardContent className="rounded-lg shadow-2xl border border-neutral-900 cursor-pointer dark:bg-neutral-800 dark:text-neutral-200 overflow-hidden w-fit p-0">
                 <Image
                   src={work?.src}
                   alt={work?.title}
                   width={w}
                   height={h}
-                  className="border-b-2"
+                  className="border-b-2 border-neutral-800"
                 />
                 <CardHeader>
                   <CardTitle>
@@ -49,14 +54,19 @@ export default function DetailCard({ work, w, h }) {
               </CardContent>
             </Card>
           </DialogTrigger>
-          <DialogContent className={cn(aldrich.className)}>
+          <DialogContent
+            className={cn(
+              aldrich.className,
+              "bg-white dark:bg-neutral-950 dark:border-neutral-900",
+            )}
+          >
             <DialogHeader>
               <DialogTitle>{work?.title}</DialogTitle>
               <DialogDescription className="hidden"></DialogDescription>
             </DialogHeader>
             <div>
               <Image
-                className="rounded-lg border-2"
+                className="rounded-lg border-2 dark:border-neutral-900"
                 src={work?.src}
                 alt={work?.title}
                 width={w}

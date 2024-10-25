@@ -1,8 +1,9 @@
 import TextComponent from "@/app/components/TextComponent";
 import { cn } from "@/lib/utils";
 import { aldrich } from "@/app/fonts/aldrich-font";
-import { Button } from "@/components/ui/button";
+import { Button, buttonVariants } from "@/components/ui/button";
 import { Mail } from "lucide-react";
+import Link from "next/link";
 
 export default function ConnectSection() {
   return (
@@ -20,8 +21,12 @@ export default function ConnectSection() {
           Contact Me for collaboration, contribution, projects, hackathon or
           just say Hi!
         </div>
-        <Button className="w-fit mx-auto py-3 px-6 text-md">
-          Email Me <Mail className="ml-2" />
+        <Button asChild className="w-fit mx-auto py-3 px-6 text-md">
+          <Link href="mailto:vaishvivek634@gmail.com">
+            <div className="flex">
+              Email Me <Mail className="ml-2" />
+            </div>
+          </Link>
         </Button>
       </div>
     </section>

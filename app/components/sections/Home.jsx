@@ -4,7 +4,6 @@ import ImageComponent from "@/app/components/ImageComponent";
 import TextComponent from "@/app/components/TextComponent";
 import Typewriter from "@/app/components/Typewriter";
 import Link from "next/link";
-import Image from "next/image";
 
 export default function HomeSection() {
   const texts = [
@@ -23,7 +22,7 @@ export default function HomeSection() {
         w={300}
         h={300}
       />
-      <div className="px-2 md:m-auto">
+      <div className="px-2 md:m-auto md:w-1/2">
         <TextComponent className="mb-5 font-bold text-[2.5rem] w-full">
           Vivek Vaish
         </TextComponent>
@@ -42,11 +41,6 @@ export default function HomeSection() {
           <IconComponent className="p-3 hover:bg-blue-500 hover:text-white">
             <Link href="https://www.linkedin.com/in/vivekv634" target="_blank">
               <Linkedin />
-            </Link>
-          </IconComponent>
-          <IconComponent className="p-3 hover:bg-zinc-300 hover:text-white">
-            <Link href="https://leetcode.com/u/vaishvivek634/" target="_blank">
-              <Image src="/logos/leetcode.png" alt="" width={25} height={25} />
             </Link>
           </IconComponent>
           <IconComponent className="p-3 hover:bg-gray-900 hover:text-white">
