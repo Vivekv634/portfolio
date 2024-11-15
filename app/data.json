@@ -1,4 +1,9 @@
 {
+  "texts": [
+    "I'm a Full-Stack Developer.",
+    "I love building web apps.",
+    "Let's create something amazing!"
+  ],
   "milestone": [
     {
       "title": "NASA Space App Challenge",
@@ -7,6 +12,12 @@
       "linkedInLink": "https://www.linkedin.com/posts/vivekv634_nasaspaceapps-hackathon-innovation-activity-7249064100993925120-p6pm?utm_source=share&utm_medium=member_desktop",
       "src": "/nasa_app_ss.png",
       "description": "NASA space app challenge is a hackathon conducted by the KIET college, Ghaziabad. My team and I tackled one of NASA's problem statements, working to create and deploy a functional solution within the 48-hour timeframe. Our project involved building an interactive orrery web app using React.js and Three.js, which showcased celestial bodies and asteroids in a dynamic, educational format."
+    },
+    {
+      "title": "Bharat Shiksha Expo",
+      "linkedInLink": "https://www.linkedin.com/feed/update/urn:li:activity:7262726487152164865/",
+      "src": "/nutrino_buddy_ss.png",
+      "description": "Bharat Shiksha Expo is an education fair organized by India Exposition Mart. Bharat Shiksha Expo offers events like ideathon, hackathon, startathon and many more. My team has participated in the hackathon with \"Health Care\" theme. We were working on a ML model \"Nutrino Buddy\", which is designed to track the users' calorie intake by calorie tracker. This ML model also suggestion the user, how much the food should they consume in order to maintain their daily calorie intake."
     }
   ],
   "skills": {

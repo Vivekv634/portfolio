@@ -10,7 +10,7 @@ export default function MileStoneSection() {
       </TextComponent>
       <div className="flex flex-row flex-wrap gap-7 justify-center md:mx-7 md:justify-start">
         {data.milestone.map((milestone, index) => {
-          return <DetailCard work={milestone} w={450} h={450} key={index} />;
+          return <DetailCard work={milestone} w={450} h={350} key={index} />;
         })}
       </div>
     </section>

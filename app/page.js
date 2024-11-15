@@ -40,7 +40,7 @@ export default function Home() {
           <ConnectSection />
         </div>
         <section className="fixed bottom-0 flex justify-center w-full left-0">
-          <div className="flex gap-7 px-2 p-2 border-2 bg-neutral-100 dark:bg-neutral-800 dark:border-neutral-700 dark:text-neutral-200 rounded-lg mb-4 shadow-lg">
+          <div className="flex gap-7 px-2 p-2 border-2 bg-neutral-100 dark:bg-neutral-800 dark:border-neutral-700 dark:text-neutral-200 rounded-lg mb-4 shadow-xl">
             <Tooltip>
               <TooltipTrigger>
                 <Link href="#home-section">

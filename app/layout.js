@@ -1,5 +1,5 @@
 import "./globals.css";
-import { ThemeProvider } from "@/app/components/theme-provider";
+import { ThemeProvider } from "next-themes";
 
 export const metadata = {
   title: "Portfolio",
@@ -9,12 +9,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className="scroll-smooth" suppressHydrationWarning>
-      <body>
+      <body className="dark:bg-black bg-white text-black dark:text-white">
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
-          enableSystem
-          disableTransitionOnChange
+          enableSystem={true}
         >
           {children}
         </ThemeProvider>

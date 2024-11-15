@@ -127,7 +127,13 @@ export default function SkillsSection() {
             <ul className="list-image-[url(/logos/check.svg)] marker:bg-green list-outside ml-7">
               {data.skills.soft_skills.map((skill, index) => {
                 return (
-                  <li key={index} className={cn(aldrich.className, "text-md")}>
+                  <li
+                    key={index}
+                    className={cn(
+                      aldrich.className,
+                      "text-md dark:text-white mt-2",
+                    )}
+                  >
                     {skill}
                   </li>
                 );

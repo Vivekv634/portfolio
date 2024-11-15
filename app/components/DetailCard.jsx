@@ -29,7 +29,7 @@ export default function DetailCard({ work, w, h }) {
           <DialogTrigger>
             <Card
               className={cn(
-                "w-fit border dark:border-neutral-900",
+                "w-fit dark:border dark:border-neutral-900",
                 aldrich.className,
               )}
             >
@@ -45,7 +45,7 @@ export default function DetailCard({ work, w, h }) {
                   <CardTitle>
                     {work?.title}{" "}
                     {work?.dev && (
-                      <span className="uppercase p-1 border border-fuchsia-400 bg-fuchsia-300 rounded-lg w-fit">
+                      <span className="uppercase p-1 border border-fuchsia-400 bg-fuchsia-300 dark:text-black rounded-md w-fit">
                         under dev
                       </span>
                     )}
@@ -57,7 +57,7 @@ export default function DetailCard({ work, w, h }) {
           <DialogContent
             className={cn(
               aldrich.className,
-              "bg-white dark:bg-neutral-950 dark:border-neutral-900",
+              "bg-white dark:text-white dark:bg-neutral-950 dark:border-neutral-900",
             )}
           >
             <DialogHeader>
@@ -72,14 +72,14 @@ export default function DetailCard({ work, w, h }) {
                 width={w}
                 height={h}
               />
-              <p className="p-2 text-justify">{work?.description}</p>
+              <p className="p-2 mt-2 text-justify">{work?.description}</p>
             </div>
             <div className="flex flex-row flex-wrap gap-4 justify-center">
               {work?.githubLink && (
                 <Tooltip className={cn(!work?.githubLink && "hidden")}>
                   <TooltipTrigger>
                     <Link href={work.githubLink} target="_blank">
-                      <IconComponent className="p-3 hover:bg-gray-900 hover:text-white">
+                      <IconComponent className="p-3 dark:hover:bg-gray-900 hover:bg-gray-900 hover:text-white">
                         <Github />
                       </IconComponent>
                     </Link>
@@ -93,7 +93,7 @@ export default function DetailCard({ work, w, h }) {
                 <Tooltip>
                   <TooltipTrigger>
                     <Link href={work.websiteLink} target="_blank">
-                      <IconComponent className="p-3 hover:bg-pink-400 hover:text-white">
+                      <IconComponent className="p-3 dark:hover:bg-pink-400 hover:bg-pink-400 hover:text-white">
                         <LinkTag />
                       </IconComponent>
                     </Link>
@@ -107,7 +107,7 @@ export default function DetailCard({ work, w, h }) {
                 <Tooltip>
                   <TooltipTrigger>
                     <Link href={work.linkedInLink} target="_blank">
-                      <IconComponent className="p-3 hover:bg-blue-500 hover:text-white">
+                      <IconComponent className="p-3 dark:hover:bg-blue-500 hover:bg-blue-500 hover:text-white">
                         <Linkedin />
                       </IconComponent>
                     </Link>

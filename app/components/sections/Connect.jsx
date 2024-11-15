@@ -17,17 +17,20 @@ export default function ConnectSection() {
           "text-xl flex flex-col justify-center text-center align-center",
         )}
       >
-        <div className="mb-3">
+        <div className="dark:text-white mt-12">
           Contact Me for collaboration, contribution, projects, hackathon or
           just say Hi!
         </div>
-        <Button asChild className="w-fit mx-auto py-3 px-6 text-md">
-          <Link href="mailto:vaishvivek634@gmail.com">
-            <div className="flex">
-              Email Me <Mail className="ml-2" />
-            </div>
-          </Link>
-        </Button>
+        <Link
+          className={cn(
+            buttonVariants({ variant: "default" }),
+            "w-fit mx-auto my-5",
+          )}
+          href="mailto:vaishvivek634@gmail.com"
+          target="_blank"
+        >
+          Email Me <Mail className="ml-2" />
+        </Link>
       </div>
     </section>
   );
