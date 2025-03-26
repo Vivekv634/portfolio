@@ -1,0 +1,107 @@
+{
+  "texts": [
+    "I'm a Full-Stack Developer.",
+    "I love building web apps.",
+    "Let's create something amazing!"
+  ],
+  "milestones": [
+    {
+      "id": 0,
+      "title": "Code Kshetra 2.0",
+      "githubLink": "https://github.com/Prabhat2912/price-prediction",
+      "linkedInLink": "https://www.linkedin.com/posts/vivekv634_codekshetra-hackathon-ai-activity-7300149635963097088-uENa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9NKvkBuqIpBq-JYXFT19c1iM8tITvTLHQ",
+      "src": "/code kshestra.jpeg",
+      "description": "# 🚀 Code Kshetra 2.0: A Thrilling 36-Hour Hackathon  \n ## 🎯 About Code Kshetra 2.0  \n **Code Kshetra 2.0** was an electrifying **36-hour hackathon** held at **JIMS Rohini**, bringing together some of the brightest minds in tech to solve real-world challenges.  \n Organized by **GeekRoom**, this event provided an intense and immersive environment for developers, AI enthusiasts, and problem-solvers to collaborate, innovate, and push their limits.  \n Participants worked on **cutting-edge challenges** in **AI, machine learning, blockchain, automation**, and more.  \n The hackathon presented complex problems provided by **industry leaders** like **AiHello, Reactive, and Pathway**.  \n This event was not just about coding—it was about **creativity, teamwork, and impact-driven solutions**.  \n ---  \n ## 💡 The Hackathon Experience  \n ### **🚀 The Challenge**  \n Participants were given **real-world problem statements** and had to develop **functional, innovative solutions** within just **36 hours**.  \n They tackled **AI-driven automation, blockchain security, predictive analytics, and process optimization**, among other challenges.  \n ### **🤝 Collaboration & Mentorship**  \n Beyond coding, **Code Kshetra 2.0** was a hub for **networking, knowledge-sharing, and skill-building**.  \n The event featured **mentor guidance, expert talks**, and interactive **panel discussions** to help participants refine their ideas.  \n From **live jamming sessions** to **late-night brainstorming**, the event fostered a dynamic and collaborative atmosphere.  \n Meeting **AI influencers** like **Manav Gupta (Tensor Boy)** added even more value to the journey.  \n ### **🏆 Recognition & Rewards**  \n With **exciting prizes, recognition, and invaluable learning experiences**, Code Kshetra 2.0 proved to be the ultimate platform where **innovation meets execution**.  \n Whether winning or not, every team walked away with:  \n ✅ **New technical and problem-solving skills**  \n ✅ **Stronger industry connections**  \n ✅ **A boost of inspiration for future challenges**  \n ---  \n ## 🎤 Looking Forward  \n **Code Kshetra 2.0** was more than just a competition—it was an unforgettable experience that pushed boundaries and redefined innovation.  \n The excitement, passion, and drive exhibited by participants left a lasting impact, and we can’t wait for the **next edition**!  \n 🚀 *See you at Code Kshetra 3.0!* 🚀  \n "
+    },
+    {
+      "id": 1,
+      "title": "NASA Space App Challenge",
+      "githubLink": "https://github.com/Vivekv634/NASA-Space-app-challenge",
+      "websiteLink": "https://nasa-space-app-challenge-beta.vercel.app/",
+      "linkedInLink": "https://www.linkedin.com/posts/vivekv634_nasaspaceapps-hackathon-innovation-activity-7249064100993925120-p6pm?utm_source=share&utm_medium=member_desktop",
+      "src": "/nasa_app_ss.png",
+      "description": "# 🚀 NASA Space Apps Challenge  \n ## 🎯 About the Hackathon  \n The **NASA Space Apps Challenge** is a **prestigious hackathon** conducted by **KIET College, Ghaziabad**.  \n This global event brings together developers, designers, and space enthusiasts to solve **real-world challenges posed by NASA**.  \n My team and I took on one of NASA’s **exciting problem statements**, dedicating **48 hours** to developing and deploying a **functional, innovative solution**.  \n ---  \n ## 💡 Our Project: Interactive Orrery Web App  \n ### **🔭 Concept & Goal**  \n We built an **interactive orrery web app** using **React.js and Three.js**.  \n This application visually represents **celestial bodies, near-Earth asteroids, and other space objects** in an immersive, educational format.  \n ### **🛠️ Key Features**  \n - 🌍 **Dynamic 3D Visualization**: Real-time rendering of planets, asteroids, and their orbits.  \n - 🚀 **Interactive Exploration**: Users can rotate, zoom, and interact with celestial objects.  \n - 🌌 **Educational Insights**: Displays data and information about each celestial body.  \n - 🔆 **Realistic Lighting & Shadows**: Implemented advanced Three.js rendering techniques.  \n ### **⚙️ Tech Stack Used**  \n - **Frontend**: React.js, Three.js  \n - **Backend**: Node.js, Express.js (for API handling)  \n - **Data Sources**: NASA APIs for real-time space data  \n ---  \n ## 🏆 Impact & Future Enhancements  \n Our project aimed to make **astronomy more accessible and engaging** for students, educators, and space enthusiasts.  \n In the future, we plan to **enhance the app** with:  \n ✅ **AI-powered space object recognition**  \n ✅ **Real-time asteroid tracking**  \n ✅ **Integration with AR/VR for an immersive experience**  \n ---  \n ## 🎤 Hackathon Experience  \n Participating in the **NASA Space Apps Challenge** was an **unforgettable journey**.  \n We gained **hands-on experience** in space technology, data visualization, and **collaborative problem-solving**.  \n This hackathon not only **expanded our technical expertise** but also **connected us with like-minded innovators** from around the world.  \n 🚀 *Looking forward to more space-tech innovations in the future!* 🚀  \n "
+    },
+    {
+      "id": 2,
+      "title": "Bharat Shiksha Expo",
+      "linkedInLink": "https://www.linkedin.com/feed/update/urn:li:activity:7262726487152164865/",
+      "src": "/nutrino_buddy_ss.png",
+      "description": "# 🚀 Bharat Shiksha Expo Hackathon 2025  \n ## 🎯 About Bharat Shiksha Expo  \n The **Bharat Shiksha Expo** is a premier education fair organized by **India Exposition Mart**, bringing together students, professionals, educators, and innovators from various domains.  \n The expo hosts multiple events such as **ideathons, hackathons, startathons**, and many more, providing a platform for creative minds to showcase their ideas and technological solutions.  \n One of the most anticipated segments of the expo is the **Hackathon**, where teams compete to develop innovative solutions addressing real-world challenges.  This year, our team participated in the **Health Care** theme, working on an **AI-powered nutrition assistant**—**Nutrino Buddy**.  \n ---  \n ## 💡 Our Hackathon Project: Nutrino Buddy  \n ### **🔍 Problem Statement**  \n Maintaining a healthy diet and tracking daily calorie intake is a challenge for many individuals.  \n People often struggle with determining the right portion sizes and balancing their nutrient consumption.  \n Our goal was to develop an **ML-powered solution** that provides users with an **intelligent calorie-tracking system**, guiding them to achieve their dietary goals effectively.  \n ### **🤖 Solution: Nutrino Buddy**  \n **Nutrino Buddy** is an **AI-driven calorie tracking assistant** that helps users **monitor their food intake** and suggests optimal consumption levels to maintain a balanced diet.  \n It leverages **Machine Learning (ML) and Computer Vision** to estimate calorie intake and recommend dietary adjustments based on an individual's health goals.  \n ### **🛠️ Key Features**  \n - 📊 **Calorie Tracker**: Accurately calculates calories from food images or manual inputs.  \n - 🥗 **Personalized Diet Recommendations**: Provides tailored meal suggestions to meet daily calorie needs.  \n - 🔬 **ML-Based Insights**: Analyzes eating habits and offers health insights.  \n - 📱 **Seamless Integration**: Compatible with mobile apps for real-time tracking and recommendations.  \n ### **🔍 How It Works**  \n 1. **User Inputs**: Users can either take a picture of their meal or manually enter food items.  \n 2. **ML Model Processing**: Our ML model detects food items, estimates portion sizes, and calculates calorie values.  \n 3. **Dietary Suggestions**: Based on the user's health profile, Nutrino Buddy provides recommendations on portion sizes and food choices.  \n 4. **Daily & Weekly Reports**: Users receive analytics on their dietary habits and progress towards fitness goals.  \n ---  \n ## 🏆 Impact and Future Scope  \n Our project aims to **promote healthier eating habits** by making calorie tracking effortless and intuitive.  \n We envision several enhancements for **Nutrino Buddy**, such as:  \n - **Enhanced Food Recognition**: Utilizing deep learning to improve food classification accuracy.  \n - **Nutrient Analysis**: Providing a breakdown of macronutrients (carbohydrates, proteins, and fats).  \n - **Integration with Wearables**: Syncing with fitness trackers to provide comprehensive health insights.  \n - **AI-Powered Chatbot**: Offering real-time dietary advice through conversational AI.  \n ---  \n ## 🎤 Our Hackathon Experience  \n Participating in the **Bharat Shiksha Expo Hackathon** was an incredible experience.  \n It provided us with the opportunity to:  \n ✅ Work collaboratively as a team to develop an impactful solution.  \n ✅ Gain hands-on experience in **Machine Learning and AI-driven solutions**.  \n ✅ Receive feedback from industry experts and mentors.  \n ✅ Showcase our innovation to a wider audience and connect with like-minded professionals.  \n ---  \n ## 🚀 Conclusion  \n Our journey at the **Bharat Shiksha Expo Hackathon** was truly transformative.  \n Through **Nutrino Buddy**, we aim to empower individuals with better dietary insights, making **healthier living easier and more accessible**.  \n We look forward to further enhancing our model and contributing to the future of **AI-powered health tech solutions**!  \n"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    ],
+    "lib_frame": [
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"
+    ],
+    "dev_tools": [
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
+    ],
+    "others": [
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg",
+      "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg"
+    ]
+  },
+  "projects": [
+    {
+      "id": 0,
+      "title": "Autobook",
+      "linkedInLink": "https://www.linkedin.com/posts/vivekv634_webdevelopment-nextjs-firebase-activity-7269220052841705472-fX2E?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9NKvkBuqIpBq-JYXFT19c1iM8tITvTLHQ",
+      "githubLink": "https://github.com/Vivekv634/Autobook",
+      "websiteLink": "https://autobook1.vercel.app/",
+      "src": "/autobook_ss.png",
+      "description": "# 📝 AutoBook - Advanced Note-Taking Web Application  \n ## 🚀 About AutoBook  \n **AutoBook** is a powerful and efficient **note-taking web application** designed to streamline and enhance the way users **store, organize, and retrieve notes**.  \n With an intuitive interface and **smart sorting features**, AutoBook offers a seamless experience for both personal and professional use.  \n ---  \n ## 💡 Key Features  \n ### 📂 **Notebook Organization**  \n - Users can create **multiple notebooks** to categorize their notes efficiently.  \n - Easy navigation between different topics and subjects.  \n ### ✨ **AutoNote - AI-Powered Note Generation**  \n - **Auto-generate notes** at a specified time to save effort.  \n - Helps users stay organized without manually creating new notes every time.  \n ### 🔍 **Smart Sorting & Search**  \n - Advanced filtering and sorting based on **date, tags, and relevance**.  \n - **Quick search functionality** to find important notes instantly.  \n ### ☁️ **Cloud Storage & Syncing**  \n - Securely store notes and access them **from any device**.  \n - Automatic syncing across multiple platforms.  \n ---  \n ## 🎯 Why Choose AutoBook?  \n ✔️ **Time-Saving**: Reduces the manual effort needed to create and manage notes.  \n ✔️ **User-Friendly**: Intuitive design with an easy-to-use interface.  \n ✔️ **Highly Organized**: Smart categorization and sorting for better efficiency.  \n ✔️ **AI Integration**: Intelligent features to enhance productivity.  \n ---  \n ## 🚀 Future Enhancements  \n 🔹 **Handwriting Recognition**: Support for handwritten notes using AI.  \n 🔹 **Voice-to-Text Notes**: Convert voice recordings into text-based notes.  \n 🔹 **Collaboration Tools**: Share and edit notes with team members in real-time.  \n ---  \n ✨ *Stay organized and boost your productivity with AutoBook!* ✨  \n "
+    },
+    {
+      "id": 1,
+      "title": "To-Do App",
+      "githubLink": "https://github.com/Vivekv634/To-Do-App",
+      "websiteLink": "https://vivekv634.github.io/To-Do-App/",
+      "src": "/todo_app_ss.png",
+      "description": "# ✅ To-Do App - Stay Organized Anytime, Anywhere  \n ## 🚀 About To-Do App  \n The **To-Do App** is a **simple yet powerful web application** that allows users to efficiently **manage their tasks**.  \n With an intuitive design and **offline functionality**, users can create, delete, and mark tasks as done—**even without an internet connection**.  \n ---  \n ## 💡 Key Features  \n ### 📝 **Task Management**  \n - Create, edit, and delete tasks effortlessly.  \n - Mark tasks as **done** to track progress.  \n ### 🌐 **Offline Functionality**  \n - Works **seamlessly without an internet connection**.  \n - Data is stored locally and synced once online.  \n ### 📊 **User-Friendly Interface**  \n - Clean and minimal UI for distraction-free task management.  \n - Easy-to-use controls for quick task updates.  \n ### 🔔 **Reminders & Notifications** *(Upcoming Feature)*  \n - Set **task reminders** to stay on track.  \n - Get **notifications** for due tasks.  \n ---  \n ## 🎯 Why Choose To-Do App?  \n ✔️ **Works Offline**: Manage tasks without internet access.  \n ✔️ **Fast & Lightweight**: No unnecessary features—just what you need.  \n ✔️ **Simple & Efficient**: Minimalistic yet highly functional.  \n ✔️ **Always Accessible**: Works across all devices and browsers.  \n ---  \n ## 🚀 Future Enhancements  \n 🔹 **Cloud Sync**: Sync tasks across multiple devices.  \n 🔹 **Collaborative Lists**: Share to-do lists with teammates or family.  \n 🔹 **Dark Mode**: Customize the app with different themes.  \n ---  \n ✨ *Stay productive with the To-Do App—your tasks, your way!* ✨  \n "
+    },
+    {
+      "id": 2,
+      "title": "Currency Converter",
+      "githubLink": "https://github.com/Vivekv634/mern-currency-converter",
+      "websiteLink": "https://vivekv634.github.io/mern-currency-converter/",
+      "src": "/currency_app_ss.png",
+      "description": "# 💱 Currency Converter - Real-Time Exchange Rate Tracker  \n ## 🚀 About Currency Converter  \n The **Currency Converter** is a **web application** that provides **real-time updates** on **currency exchange rates**.  \n With an easy-to-use interface, users can quickly convert between multiple currencies and stay updated with the latest market values.  \n ---  \n ## 💡 Key Features  \n ### 🔄 **Real-Time Currency Conversion**  \n - Get **instant exchange rate updates**.  \n - Supports **multiple global currencies**.  \n ### 📈 **Live Market Data**  \n - Fetches **real-time rates** from trusted financial sources.  \n - Updates dynamically for accuracy.  \n ### 🌐 **User-Friendly Interface**  \n - Simple and intuitive design for hassle-free usage.  \n - Fast and responsive across all devices.  \n ### 📊 **Historical Data & Trends** *(Upcoming Feature)*  \n - View **past exchange rates** and trends over time.  \n - Analyze fluctuations for better financial planning.  \n ---  \n ## 🎯 Why Choose Currency Converter?  \n ✔️ **Accurate & Real-Time**: Always updated with the latest exchange rates.  \n ✔️ **Lightweight & Fast**: No unnecessary delays—just quick conversions.  \n ✔️ **Cross-Platform**: Works on web and mobile devices seamlessly.  \n ✔️ **Secure & Reliable**: Data fetched from trusted financial APIs.  \n ---  \n ## 🚀 Future Enhancements  \n 🔹 **Multi-Currency Comparison**: Convert multiple currencies at once.  \n 🔹 **Offline Mode**: Access past exchange rates without an internet connection.  \n 🔹 **Personalized Alerts**: Get notified when exchange rates hit a desired value.  \n ---  \n ✨ *Stay ahead with real-time currency updates—anytime, anywhere!* ✨  \n "
+    },
+    {
+      "id": 3,
+      "title": "File Reader",
+      "githubLink": "https://github.com/Vivekv634/file-reader",
+      "websiteLink": "https://file-reader1.vercel.app/",
+      "src": "/file_reader_ss.png",
+      "description": "# 📂 File Reader - Read & Copy Text Files Effortlessly  \n ## 🚀 About File Reader  \n The **File Reader** is a **web application** designed to help users **read and copy text files** quickly and efficiently.  \n With a simple interface, users can upload, view, and extract text from various file formats.  \n ---  \n ## 💡 Key Features  \n ### 📖 **Read Text Files Easily**  \n - Supports multiple **text file formats** (e.g., .txt, .csv, .log).  \n - Displays file content in a clean and readable format.  \n ### 📋 **Copy & Extract Text**  \n - One-click **copy feature** to extract text instantly.  \n - Enables **quick sharing** of content.  \n ### 🌐 **User-Friendly Interface**  \n - Simple drag-and-drop functionality.  \n - Fast, responsive, and lightweight design.  \n ### 🔍 **Text Search & Formatting** *(Upcoming Feature)*  \n - Search within the file content easily.  \n - Format text for better readability.  \n ---  \n ## 🎯 Why Choose File Reader?  \n ✔️ **Fast & Efficient**: Read files instantly without delays.  \n ✔️ **Lightweight & Simple**: No unnecessary complexity—just what you need.  \n ✔️ **Works on Any Device**: Cross-platform compatibility.  \n ✔️ **Secure & Reliable**: No data is stored—ensuring privacy.  \n ---  \n ## 🚀 Future Enhancements  \n 🔹 **PDF & DOC Support**: Extend compatibility for more file formats.  \n 🔹 **Dark Mode**: Improve readability with customizable themes.  \n 🔹 **Auto-Save Feature**: Save frequently accessed files for quick retrieval.  \n ---  \n ✨ *Read and copy text files effortlessly with File Reader!* ✨  \n"
+    }
+  ]
+}
