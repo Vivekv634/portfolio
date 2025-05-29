@@ -2,7 +2,7 @@
 import TypeWriter from "@/app/utils/TypeWriter";
 import { cn } from "@/lib/utils";
 import data from "@/public/data.json";
-import { Github, Instagram, Linkedin, Moon, Sun, ThumbsUp } from "lucide-react";
+import { FileUser, Github, Instagram, Linkedin, Moon, Sun, ThumbsUp } from "lucide-react";
 import { useTheme } from "next-themes";
 import Link from "next/link";
 import { useEffect, useState } from "react";
@@ -93,6 +93,11 @@ export default function HomeSection() {
               <Instagram />
             </IconComponent>
           </Link>
+          <Link href={"https://drive.google.com/file/d/1Rc6AC2zJmgDuVx6cqrQFlsiIJVapdONT/view?usp=sharing"} target="_blank">
+            <IconComponent className="p-3 dark:hover:bg-rose-500 hover:bg-rose-500 hover:text-white">
+              <FileUser />
+            </IconComponent>
+          </Link>
           <IconComponent
             onClick={() => {
               setTheme(theme === "dark" ? "light" : "dark");
@@ -111,7 +116,7 @@ export default function HomeSection() {
             className={cn(
               "flex gap-2 h-auto px-3",
               isLiked &&
-                "transition duration-300 bg-rose-500 text-neutral-800 dark:bg-rose-500 dark:text-neutral-800",
+              "transition duration-300 bg-rose-500 text-neutral-800 dark:bg-rose-500 dark:text-neutral-800",
             )}
           >
             <ThumbsUp /> <span className="text-lg">{formatSiUnit(likes)}</span>

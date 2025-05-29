@@ -24,7 +24,7 @@ export default function TooltipHelper({
           <Icon className="m-1 hover:scale-[1.20] hover:text-rose-500 duration-150 transition-all" />
         </Link>
       </TooltipTrigger>
-      <TooltipContent className={cn(aldrich.className, "mb-2")}>
+      <TooltipContent className={cn(aldrich.className, "mb-2 hidden lg:block")}>
         {label}
       </TooltipContent>
     </Tooltip>
